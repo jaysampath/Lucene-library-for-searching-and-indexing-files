@@ -1,0 +1,4 @@
+So, the local structure has already been given. The first estimate comes from the channel itself,
+ second comes from the first and so on. So, every parity check in the local structure gives us more
+ estimates for that particular bit. So, we just need this single parity check decoder which will be
+ doing seesaw calculations.

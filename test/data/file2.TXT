@@ -1,0 +1,6 @@
+hello
+We will slowly improve the LLR, using more and more information form remaining codewords
+ like this Li uses only information from Ri. Here we use other bits of information slowly in an
+ iterative manner and expand the belief that we have, making the belief that we have a bit better
+ and better. Let us see a small example for our proposed decoding algorithm. Consider a part of the LDPC
+ matrix as shown in the figure.
