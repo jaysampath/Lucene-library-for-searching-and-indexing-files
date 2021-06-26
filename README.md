@@ -10,7 +10,7 @@
 
 <ul>
   
-  <li> Optimized Indexing and searching system its contents from a system folder </li>
+  <li> Optimized File Indexing and Searching system. </li>
   
   <li> Creating the new index file when a new file is added to the folder without re-indexing all files. </li>
   
