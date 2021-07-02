@@ -20,4 +20,14 @@
   
 </ul>
 
-
+<h2> Update </h2>
+  
+  <ul>
+  
+  <li> folderlevel.java makes the project's use case to folder level. </li>
+  <li> The user need not remember which file he modified or deleted or added. Simply he can update the folder index using cindex update '<path>' command </li>
+  <li> This project's is working fine all use cases i.e CRUD operations. </li>
+  
+  </ul>
+  
+  
