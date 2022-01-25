@@ -26,7 +26,7 @@
   
   <li> folderlevel.java makes the project's use case to folder level. </li>
   <li> The user need not remember which file he modified or deleted or added. Simply he can update the folder index using cindex update '<path>' command </li>
-  <li> This project is working fine all use cases i.e CRUD operations. </li>
+  <li> Implemented CRUD operations on files </li>
   
   </ul>
   
