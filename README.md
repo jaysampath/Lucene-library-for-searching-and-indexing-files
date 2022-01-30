@@ -1,4 +1,4 @@
-<h1> Lucene-library-for-searching-and-indexing-files </h1>
+<h1> Lucene-library-for-searching-and-indexing-files-using-java </h1>
 
 <p> Lucene is a full-text search library in Java which makes it easy to add search functionality to an application or website. It does so by adding content to a full-text index. It then allows you to perform queries on this index, returning results ranked by either the relevance to the query or sorted by an arbitrary field such as a document's last modified date. </p>
 
